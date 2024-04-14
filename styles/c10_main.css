@@ -21,21 +21,7 @@ a:focus, a:hover {
 header {
 	grid-area: header;
 }
-header h2 {
-	font-size: 175%;
-	color: #800000;
-}
-header h3 {
-	font-size: 130%;
-	font-style: italic;
-}
-header img {
-	float: left;
-	padding: 0 3.75%;
-}
-.shadow {
-	text-shadow: 2px 2px 2px #800000;
-}
+
 /* the styles for the navigation menu */
 #nav_menu ul {
 	list-style-type: none;
